@@ -1,5 +1,5 @@
 {
-    "name": "Amazone Alexa V8",
+    "name": "Queen Alexa v8",
     "description": "Alexa is a chat bot for WhatsApp. Makes it easy and Working perfectly",
     "logo": "https://telegra.ph/file/2046371f4b8e65dd4d52e.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "amazone alexa"],
@@ -39,12 +39,14 @@
         "SONGD": {
             "description": "Customizable Song Download message",
             "required": false,
-            "value": "*◦•●◉Downloading Your Song◉●•◦*"
+            "value": "🛰️ .*۞͢᳆⃞ʀͥᴇᷧᴀͫʟ᭄IMESHꪶ ☬*
+🛰️.  _*ඔබ  ඉල්ලූ ගීතය  බාගත කරමින් ඇත📽️....*_"
         },
         "SONGU": {
             "description": "Customizable Song upload message",
             "required": false,
-            "value": "*◦•●◉✿Uploading Your Song✿◉●•◦*"
+            "value": "🚀. *۞͢᳆⃞ʀͥᴇᷧᴀͫʟ᭄IMESHꪶ ☬*
+🚀.  _*ඔබ සෙවූ ගීතය ඔබ වෙත එවමින් ඇත....*_⚡"
         },
         "LANGUAGE": {
             "description": "Enter your language. SI - Sinhala | EN - English | ES - Spanish(ag)",
